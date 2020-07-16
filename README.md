@@ -1,4 +1,4 @@
-# robofriends
+# RoboFriends
 
 
 ### This is a React tutorial in Udemy. (The Complete Web Developer in 2020: Zero to Mastery)
@@ -15,4 +15,27 @@
 
 
 
+# Technologies
+
+#### Front-End
+
+##### HTML5
+
+##### CSS3
+
+##### React.js
+
+
+#### Packages
+
+##### Create React App
+
+##### Tachyons
+
+
+#### APIs
+
+##### [RoboHash](https://robohash.org/)
+
+##### [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
