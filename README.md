@@ -1,7 +1,8 @@
 # RoboFriends
 
+<br/>
 
-### This is a React tutorial in Udemy. (The Complete Web Developer in 2020: Zero to Mastery)
+### This is a React tutorial on Udemy. (The Complete Web Developer in 2020: Zero to Mastery)
 
 #### To run this project, click [Here](https://chansookim316.github.io/robofriends/) or
 
@@ -13,29 +14,33 @@
 
 ##### 4. Run `npm start`
 
+<br/>
 
+<img width="1424" alt="robo" src="https://user-images.githubusercontent.com/58630853/87654458-e5559d00-c791-11ea-9630-2cf56b40033a.png">
+
+<br/>
 
 ### Technologies
 
-#### Front-End
+####  Front-End
 
-##### * HTML5
+* HTML5
 
-##### * CSS3
+* CSS3
 
-##### * React.js
-
-
-#### Packages
-
-##### * Create React App
-
-##### * Tachyons
+* React.js
 
 
-#### APIs
+####  Packages
 
-##### * [RoboHash](https://robohash.org/)
+* Create React App
 
-##### * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+* Tachyons
+
+
+####  APIs
+
+* [RoboHash](https://robohash.org/)
+
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
