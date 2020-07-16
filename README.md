@@ -15,27 +15,27 @@
 
 
 
-# Technologies
+### Technologies
 
 #### Front-End
 
-##### HTML5
+##### * HTML5
 
-##### CSS3
+##### * CSS3
 
-##### React.js
+##### * React.js
 
 
 #### Packages
 
-##### Create React App
+##### * Create React App
 
-##### Tachyons
+##### * Tachyons
 
 
 #### APIs
 
-##### [RoboHash](https://robohash.org/)
+##### * [RoboHash](https://robohash.org/)
 
-##### [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+##### * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
