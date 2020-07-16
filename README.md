@@ -1,9 +1,10 @@
 # robofriends
 
 
-### React tutorial on Udemy course
+### This is a React tutorial in Udemy course. (The Complete Web Developer in 2020: Zero to Mastery
+)
 
-#### To run this project,
+#### To run this project, click [Here](<https://chansookim316.github.io/robofriends/) or
 
 ##### 1. Clone this repo
 
@@ -12,3 +13,5 @@
 ##### 3. Run `npm install`
 
 ##### 4. Run `npm start`
+
+
