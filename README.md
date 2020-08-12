@@ -16,7 +16,7 @@
 
 <br/>
 
-<img width="1424" alt="robo" src="https://user-images.githubusercontent.com/58630853/87654458-e5559d00-c791-11ea-9630-2cf56b40033a.png">
+![](./usage.jpg)
 
 <br/>
 
