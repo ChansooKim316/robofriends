@@ -16,7 +16,7 @@
 
 <br/>
 
-![](./usage.jpg)
+![](./usage.gif)
 
 <br/>
 
