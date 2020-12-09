@@ -33,7 +33,7 @@
 
 ####  Packages
 
-* Create React App
+* React
 
 * Tachyons
 
