@@ -1,18 +1,23 @@
-# RoboFriends
+# RoboFriends <br/>
 
-<br/>
+### Click [Here](https://chansookim316.github.io/robofriends/) to see the live page <br/><br/>
 
-### This is a React tutorial on Udemy. (The Complete Web Developer in 2020: Zero to Mastery)
 
-#### To run this project, click [Here](https://chansookim316.github.io/robofriends/) or
+### Usage
+1. Clone this repo
+2. Move to the directory
+3. Run `npm install`, `npm start`
 
-##### 1. Clone this repo
 
-##### 2. Move the directory `cd robofriends`
+### Libraries
 
-##### 3. Run `npm install`
+* React.js
+* Tachyons
 
-##### 4. Run `npm start`
+###  APIs
+
+* [RoboHash](https://robohash.org/)
+
 
 <br/>
 
@@ -20,27 +25,4 @@
 
 <br/>
 
-## Technologies
-
-####  Front-End
-
-* HTML5
-
-* CSS3
-
-* React.js
-
-
-####  Packages
-
-* React
-
-* Tachyons
-
-
-####  APIs
-
-* [RoboHash](https://robohash.org/)
-
-* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
